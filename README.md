@@ -163,7 +163,7 @@ Activity displaying the details of the developer and link to his social media ha
 
 
 <h3 align="center">Loved this project?? If yes, don't forget to give it a ⭐ and share it with your friends 😃</h3>
-<h3 align="center">Check out my other works at https://github.com/vijayjoshi16</h3>
+<h3 align="center">Check out my other works at https://github.com/sk1122</h3>
 
 <h3 align="center"><i><center>THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENTS IN THIS PROJECT ARE ALWAYS WELCOME</center></i></h3>
 
